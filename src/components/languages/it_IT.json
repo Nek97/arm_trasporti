@@ -1,0 +1,139 @@
+{
+    "language_code": "it_IT",
+    "language_info": "Italiano",
+    "home": "Home",
+    "about": "Azienda",
+    "resume": "",
+    "works": "lavori",
+    "testimonials": "testimonianze",
+    "homeTitle": "ARM Trasporti",
+    "homeDescription": "",
+    "about_me": "Chi siamo",
+    "about_me_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis ducimus deserunt voluptatum et aliquam facere, odit architecto quidem saepe numquam, nostrum fugit eos excepturi ex eveniet expedita tempora qui suscipit.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis ducimus deserunt voluptatum et aliquam facere, odit architecto quidem saepe numquam, nostrum fugit eos excepturi ex eveniet expedita tempora qui suscipit.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis ducimus deserunt voluptatum et aliquam facere, odit architecto quidem saepe numquam, nostrum fugit eos excepturi ex eveniet expedita tempora qui suscipit.",
+    "contact_details": "Contatti",
+    "download_resume": "Scarica il curriculum italiano",
+    "download_resume_link": "cv/Aniello_Tortora-IT-CV.pdf",
+    "education": "Educazione",
+    "education_elements": [
+        {
+            "name": "Università degli studi di Salerno",
+            "state": "Laureando in Informatica",
+            "date": "Aprile 2022"
+        },
+        {
+            "name": "Red Square Team",
+            "state": "Corso di preparazione",
+            "date": "Febbraio 2019"
+        },
+        {
+            "name": "I.T.I.S. G. Marconi",
+            "state": "Diploma di scuola superiore",
+            "date": "Febbraio 2016"
+        }
+    ],
+    "work": "Lavoro",
+    "work_elements": [
+        {
+            "name": "Red Square Team",
+            "role": "Senior Developer",
+            "date_start": "Gennaio 2019",
+            "date_to": "ad oggi",
+            "description": "Il R.S.T. è un team di liberi professionisti che lavorano insieme per gestire più progetti di varie entità contemporaneamente, ognuno ha la sua principale area di lavoro, ma allo stesso tempo tutti possono fare tutto. Nello specifico, mi occupo dello sviluppo del frontend con la creazione degli stili e di tutti gli elementi grafici e funzionali, successivamente collego il tutto con il server se è già stato creato dai miei colleghi, ma nel caso di progetti più piccoli mi prendo anche cura del server e del database."
+        },
+        {
+            "name": "Proxt s.a.s.",
+            "role": "Head Developer",
+            "date_start": "Marzo 2017",
+            "date_to": "Ottobre 2018",
+            "description": "Proxt s.a.s. è una piccola azienda locale che si era posta l'obiettivo di digitalizzare i negozi italiani per ampliare il mercato online e la possibilità di incontrare e prenotare professionisti di ogni genere tramite l'app Joomap. La mia assunzione lo ha reso possibile, inizialmente l'app è stata sviluppata utilizzando ionic 1, terminata la prima versione ho riscritto l'app in ionic 3 aggiungendo tutte le funzionalità necessarie alla pubblicazione."
+        },
+        {
+            "name": "Website Developer",
+            "role": "Freelancer",
+            "date_start": "Gennaio 2011",
+            "date_to": "Febbraio 2017",
+            "description": "All'età di 14 anni ho iniziato a realizzare siti web utilizzando html, php, js e css, fino ad allora mi ero dedicato alla creazione dei siti tramite l'uso dei cms. Col tempo ho avuto progetti sempre più interessanti e sfide sempre più grandi che mi hanno portato ad amare sempre di più il mondo della programmazione, fino al giorno in cui ho ricevuto il mio primo contratto da programmatore come interno in azienda, e grazie alla mia precedente carriera mi sono subito qualificato come senior developer, le mie capacità di autogestione e team management mi hanno permesso di avere quasi sempre un ruolo di project manager nei lavori di squadra"
+        }
+    ],
+    "skills": "Competenze",
+    "skills_description": "Nella mia carriera ho avuto modo di lavorare in team diversi e di sviluppare progetti diversi, ognuno con le proprie peculiarità, e queste esperienze negli anni mi hanno permesso di sviluppare sempre di più le mie competenze.",
+    "check_out_works": "Ecco alcuni dei miei lavori",
+    "works_elements": [
+        {
+            "name": "Place Me",
+            "role": "Full Stack Developer",
+            "description": "Ho creato tutti gli elementi grafici e funzionali del sito, compreso il sistema di pagamento",
+            "icon": "images/portfolio/placeme.png",
+            "image": "images/portfolio/modals/placeme.png",
+            "details": "https://www.youtube.com/watch?v=Z2goznvD23k",
+            "used": [
+                "reactjs",
+                "bootstrap",
+                "js",
+                "css",
+                "graphql",
+                "sequelize"
+            ]
+        },
+        {
+            "name": "Ease",
+            "role": "Full Stack Developer",
+            "description": "Ho eseguito il debug, risolto alcuni bug critici presenti su client e server, modificato vecchie funzionalità e aggiunto nuove funzionalità",
+            "icon": "images/portfolio/ease.png",
+            "image": "images/portfolio/modals/ease.png",
+            "details": "http://dashboard.itsease.com/",
+            "used": [
+                "reactjs",
+                "nodejs",
+                "js",
+                "css",
+                "apollo",
+                "web development",
+                "sequelize"
+            ]
+        },
+        {
+            "name": "Azeroth Shard Launcher",
+            "role": "Programmatore",
+            "description": "Ho unito ReactJs ed ElectronJs, ElectronJs è stato scelto per usare le funzionalità del sistema operativo, ReactJs per la creazione del frontend",
+            "icon": "images/portfolio/as.png",
+            "image": "images/portfolio/modals/as.png",
+            "details": "https://github.com/AzerothShard/get-as-launcher/releases/latest",
+            "used": [
+                "reactjs",
+                "bootstrap",
+                "js",
+                "css",
+                "electronjs",
+                "github api"
+            ]
+        },
+        {
+            "name": "Joomap",
+            "role": "App Developer",
+            "description": "Ho creato l'applicazione Android/Ios utilizzando Angular e Cordova",
+            "icon": "images/portfolio/joomap.png",
+            "image": "images/portfolio/modals/joomap.png",
+            "details": "https://www.youtube.com/watch?v=ROBsv2StBSM",
+            "used": [
+                "angularjs",
+                "cordova",
+                "ionic v1",
+                "ionic v3",
+                "css",
+                "scss",
+                "jquery",
+                "rest api"
+            ]
+        }
+    ],
+    "details": "Dettagli",
+    "close": "Chiudi",
+    "client_testimonials": "Testimonianze",
+    "testimonials_elements": [
+        {
+            "from": "Joseph Roy (tramite Linkedin)",
+            "description": "Aniello ha un'estrema conoscenza del development dell'UI e una curva d'apprendimento delle nuove tecnologie veramente veloce"
+        }
+    ]
+}
